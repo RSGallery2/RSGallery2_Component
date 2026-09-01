@@ -8,7 +8,7 @@ RSGallery2 is around since the Mambo days (2003) and is originally developed by 
 
 RSGallery2 is released by the GPL license and will be **free to use** (as in free beer).
 
-## Transition to Joomla!4x / J!15x
+## Transition to Joomla!4x / Joomla!5x
 
 Actually 2021.06.03 the new code is developed in a separate project RSGallery2_J4 here on github.
 
